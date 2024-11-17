@@ -1,5 +1,5 @@
 {
-    "name": "GitHub Pages Example",
+    "name": "Home",
     "version": "1.0.2",
-    "parameter": "redirect:https://emby.harthome.page/"
+    "parameter": "menu:https://tthart.github.io/msx/data/menu.json"
 }
