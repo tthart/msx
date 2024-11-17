@@ -11,7 +11,8 @@
    "items": [
       {
          "title": "Emby",
-         "action": "link:https://emby.harthome.page"
+         "action": "link:https://emby.harthome.page",
+         "image": "https://tthart.github.io/msx/data/emby.png"
       }
    ]
 }
