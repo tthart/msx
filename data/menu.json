@@ -11,7 +11,8 @@
             "label": "Base"
         },
         {
-            "icon": "movie",
+            "icon": "blank",
+            "image": "https://tthart.github.io/msx/data/emby.png",
             "label": "Emby",
             "data": "https://tthart.github.io/msx/data/base/emby.json"
         }
