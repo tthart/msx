@@ -1,0 +1,17 @@
+{
+   "type": "pages",
+   "headline": "Emby",
+   "template": {
+      "tag": "Web",
+      "type": "separate",
+      "layout": "0,0,2,3",
+      "icon": "msx-white-soft:public",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Emby",
+         "action": "link:https://emby.harthome.page"
+      }
+   ]
+}
