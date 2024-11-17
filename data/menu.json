@@ -1,15 +1,6 @@
 {
-    "headline": "GitHub Pages Example",
+    "headline": "",
     "menu": [
-        {
-            "icon": "info",
-            "label": "Welcome",
-            "data": "https://benzac-de.github.io/msx/data/welcome.json"
-        },
-        {
-            "type": "separator",
-            "label": "Base"
-        },
         {
             "icon": "blank",
             "image": "https://tthart.github.io/msx/data/emby.png",
