@@ -12,6 +12,11 @@
         },
         {
             "icon": "movie",
+            "label": "Emby",
+            "data": "https://tthart.github.io/msx/data/base/emby.json"
+        },
+        {
+            "icon": "movie",
             "label": "Videos",
             "data": "https://benzac-de.github.io/msx/data/base/videos.json"
         },
