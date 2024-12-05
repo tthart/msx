@@ -13,6 +13,11 @@
          "title": "Emby",
          "action": "link:https://emby.harthome.page",
          "image": "https://tthart.github.io/msx/data/emby.png"
+      },
+      {
+         "title": "Discoveryplus",
+         "action": "link:https://discoveryplus.com",
+         "image": "https://tthart.github.io/msx/data/emby.png"
       }
    ]
 }
