@@ -15,8 +15,8 @@
          "image": "https://tthart.github.io/msx/data/emby.png"
       },
       {
-         "title": "Discoveryplus",
-         "action": "link:https://discoveryplus.com",
+         "title": "Emby-new",
+         "action": "link:https://tv.emby.media/#!/home",
          "image": "https://tthart.github.io/msx/data/emby.png"
       }
    ]
