@@ -18,6 +18,11 @@
          "title": "Emby-new",
          "action": "link:https://tv.emby.media",
          "image": "https://tthart.github.io/msx/data/emby.png"
+      },
+      {
+         "title": "Emby-newer",
+         "action": "link:https://tv.emby.media/#!/startup/welcome.html",
+         "image": "https://tthart.github.io/msx/data/emby.png"
       }
    ]
 }
