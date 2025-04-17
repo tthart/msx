@@ -16,7 +16,7 @@
       },
       {
          "title": "Emby-new",
-         "action": "link:https://tv.emby.media/#!/home",
+         "action": "link:https://tv.emby.media",
          "image": "https://tthart.github.io/msx/data/emby.png"
       }
    ]
