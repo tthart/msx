@@ -20,14 +20,8 @@
          "image": "http://tthart.github.io/msx/data/emby.png"
       },
       {
-         "title": "Emby-newer",
-         "action": "link:https://tv.emby.media/#!/startup/welcome.html",
-         "image": "https://tthart.github.io/msx/data/emby.png"
-      },
-      {
-         "title": "Emby-wmc",
-         "action": "link:https://wmc.emby.media/app",
-         "image": "https://tthart.github.io/msx/data/emby.png"
+         "title": "Apple TV",
+         "action": "link:https://tv.apple.com"
       }
    ]
 }
